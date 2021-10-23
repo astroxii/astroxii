@@ -7,14 +7,13 @@
 + HTML
 + CSS
 + React.js
-+ Electron.js
 + Node.js
 + Java
 + MongoDB
++ C/C++
 
 ### And learning:
-+ C++
 + C#
 + Python
-+ Unreal Engine
++ Unity Engine
 + MySQL
