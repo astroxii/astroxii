@@ -24,4 +24,4 @@ I am from Brazil, started learning programmation in 2018 with Java language, dev
 
 ### My profiles...
 + [Portfolio](https://astroxii.github.io/)
-+ [LinkedIn](https://www.linkedin.com/pedroabinotti)
++ [LinkedIn](https://www.linkedin.com/in/pedroabinotti)
