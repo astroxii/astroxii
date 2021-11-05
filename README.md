@@ -21,7 +21,9 @@ I am from Brazil, started learning programmation in 2018 with Java language, dev
 + PHP
 + Spring Boot
 + Bootstrap
++ Docker
 
 ### My profiles...
-+ [Portfolio](https://astroxii.github.io/)
-+ [LinkedIn](https://www.linkedin.com/in/pedroabinotti)
+[<img alt="Portfolio Icon" src="https://github.com/astroxii/astroxii/blob/main/favicon.ico" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io)
+[<img alt="LinkedIn Icon" src="https://github.com/astroxii/astroxii/blob/main/linkedin.png" width="55px" height="55px" title="LinkedIn"/>](https://www.linkedin.com/in/pedroabinotti)
+[<img alt="GitHub Icon" src="https://github.com/astroxii/astroxii/blob/main/github.png" width="55px" height="55px" title="GitHub"/>](https://www.github.com/astroxii)
