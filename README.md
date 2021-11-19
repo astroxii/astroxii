@@ -31,5 +31,5 @@ I am from Brazil, started learning programmation in 2018 with Java language, dev
 [<img alt="GitHub Icon" align="center" src="./github.png" width="55px" height="55px" title="GitHub"/>](https://www.github.com/astroxii) |
 [<img alt="Stack Overflow Icon" align="center" src="./stackoverflow.png" width="55px" height="55px" title="Stack Overflow"/>](https://stackoverflow.com/users/16729323/astroxii)
 
-
-[<img alt="Stack Overflow?" align="center" src="./stckovflw.png" width="200px" height="auto" title="Stack Overflow?"/>](#)
+#### Thanks for visiting!
+[<img alt="Stack Overflow?" align="center" src="./stckovflw.png" width="275px" height="auto" title="Stack Overflow?"/>](#)
