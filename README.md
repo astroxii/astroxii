@@ -30,3 +30,6 @@ I am from Brazil, started learning programmation in 2018 with Java language, dev
 [<img alt="LinkedIn Icon" align="center" src="./linkedin.png" width="55px" height="55px" title="LinkedIn"/>](https://www.linkedin.com/in/pedroabinotti) |
 [<img alt="GitHub Icon" align="center" src="./github.png" width="55px" height="55px" title="GitHub"/>](https://www.github.com/astroxii) |
 [<img alt="Stack Overflow Icon" align="center" src="./stackoverflow.png" width="55px" height="55px" title="Stack Overflow"/>](https://stackoverflow.com/users/16729323/astroxii)
+
+
+[<img alt="Stack Overflow?" align="center" src="./stckovflw.png" width="55px" height="55px" title="Stack Overflow?"/>](#)
