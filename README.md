@@ -20,7 +20,6 @@ I am from Brazil, started learning programmation in 2018 with Java language, dev
 + Pandas
 + Unity Engine
 + MySQL
-+ Typescript
 + PHP
 + Spring Boot
 + Bootstrap
