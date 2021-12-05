@@ -17,6 +17,7 @@ I am from Brazil, started learning programmation in 2018 with Java language, dev
 ### And will learn in future:
 + C#
 + Python
++ Pandas
 + Unity Engine
 + MySQL
 + Typescript
