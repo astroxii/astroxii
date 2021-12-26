@@ -2,8 +2,6 @@
 
 I am from Brazil, started learning programmation in 2018 with Java language, developing simple 2D games with it's native graphical API. Worked for some months, finished some simple projects, then i begun working with Javascript and all Web relationed technologies. For the next years I plan to masterize all my knowledges and learn more every time I finish learning the previous.
 
-### Merry Christmas! 🎄
-
 [<img alt="Galaxy Illustration" align="center" src="./galaxy.jpg" width="100%" height="auto"/>](#)
 
 ### Currently i work with:
