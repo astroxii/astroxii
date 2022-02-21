@@ -1,6 +1,6 @@
 # Hey, welcome! 🌌
 
-I am from Brazil, started learning programmation in 2018 with Java language, developing simple 2D games with it's native graphical API. Worked for some months, finished some simple projects, then i begun working with Javascript and all Web relationed technologies. For the next years I plan to masterize all my knowledges and learn more every time I finish learning the previous.
+Hello, welcome to my GitHub page. I am an IT and Computer Science student from Brazil, currently am mastering Web technologies skills, and further on, I will start studying in the Artificial Intelligence fields. I've started this learning journey in 2018, with the Java language, and moved to Web environment. Hopefully, when 2022 is ending, I might be able have mastered Web Development skills, and know a satisfactory amount about Machine Learning.
 
 [<img alt="Galaxy Illustration" align="center" src="./galaxy.jpg" width="100%" height="auto"/>](#)
 
