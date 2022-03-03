@@ -26,7 +26,7 @@ Hello, welcome to my GitHub page. I am an IT and Computer Science student from B
 + Docker
 
 ### My profiles...
-[<img alt="Portfolio Icon" align="center" src="./favicon.ico" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io) |
+[<img alt="Portfolio Icon" align="center" src="./portfolioIcon.png" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io) |
 [<img alt="LinkedIn Icon" align="center" src="./linkedin.png" width="55px" height="55px" title="LinkedIn"/>](https://www.linkedin.com/in/pedroabinotti) |
 [<img alt="GitHub Icon" align="center" src="./github.png" width="55px" height="55px" title="GitHub"/>](https://www.github.com/astroxii) |
 [<img alt="Stack Overflow Icon" align="center" src="./stackoverflow.png" width="55px" height="55px" title="Stack Overflow"/>](https://stackoverflow.com/users/16729323/astroxii)
