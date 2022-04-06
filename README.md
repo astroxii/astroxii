@@ -8,7 +8,7 @@ Hello, welcome to my GitHub page. I am an IT and Computer Science student from B
 ### Languages that I want to start learning: ```C#```
 &nbsp;
 ### Technologies that I use and learn: ```React.js```, ```Node.js```, ```Express.js```, ```MongoDB```
-### Technologies that I want to start learning: ```MySQL```, ```Pandas```, ```Docker```, ```Kubernetes```
+### Technologies that I want to start learning: ```MySQL```, ```Pandas```, ```Docker```, ```Kubernetes```, ```TensorFlow```
 &nbsp;
 &nbsp;
 ### Find me here...
