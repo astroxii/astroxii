@@ -4,8 +4,8 @@ Hello, welcome to my GitHub page. I am an IT and Computer Science student from B
 
 <p align="center"><img alt="Galaxy Illustration" align="center" src="./galaxy.jpg" width="80%" height="auto"/></p>
 
-### Languages that I use and learn: ```Javascript```, ```HTML```, ```CSS```, ```Python```, ```Java```, ```C/C++```, ```PHP```
-### Languages that I want to start learning: ```C#```
+### Languages that I use and learn: <img src="https://img.shields.io/badge/Javascript-FFDA29?style=for-the-badge&logo=javascript&logoColor=black">, <img src="https://img.shields.io/badge/html-FF7700?style=for-the-badge&logo=html&logoColor=black">, <img src="https://img.shields.io/badge/CSS-ADD8E6?style=for-the-badge&logo=css&logoColor=black">, <img src="https://img.shields.io/badge/Python-FFDA29?style=for-the-badge&logo=python&logoColor=blue">, <img src="https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=java&logoColor=gold">, <img src="https://img.shields.io/badge/C-029FFF?style=for-the-badge&logo=c&logoColor=white">, <img src="https://img.shields.io/badge/C++-029FFF?style=for-the-badge&logo=cplusplus&logoColor=white">, <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white">
+### Languages that I want to start learning: <img src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=csharp&logoColor=white">
 &nbsp;
 ### Technologies that I use and learn: ```React.js```, ```Node.js```, ```Express.js```, ```MongoDB```
 ### Technologies that I want to start learning: ```MySQL```, ```Pandas```, ```Docker```, ```Kubernetes```, ```TensorFlow```
