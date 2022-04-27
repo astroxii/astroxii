@@ -14,7 +14,7 @@ Hello, welcome to my GitHub page. I am an IT and Computer Science student from B
 <img src="https://img.shields.io/badge/React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.JS-9ACD32?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### Technologies that I want to start learning:
-MySQL Pandas Docker Kubernetes TensorFlow
+<img src="https://img.shields.io/badge/MySQL-00AAEE?style=for-the-badge&logo=mysql&logoColor=orange"> Pandas Docker Kubernetes TensorFlow
 
 ### Find me here...
 [<img alt="Portfolio Icon" align="center" src="./portfolioIcon.png" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io) |
