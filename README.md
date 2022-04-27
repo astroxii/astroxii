@@ -14,7 +14,7 @@ Hello, welcome to my GitHub page. I am an IT and Computer Science student from B
 <img src="https://img.shields.io/badge/React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.JS-68A063?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.JS-9ACD32?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### Technologies that I want to start learning:
-<img src="https://img.shields.io/badge/MySQL-00AAEE?style=for-the-badge&logo=mysql&logoColor=orange"> Pandas Docker Kubernetes TensorFlow
+<img src="https://img.shields.io/badge/MySQL-00AAEE?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=red"> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-3970E4?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 ### Find me here...
 [<img alt="Portfolio Icon" align="center" src="./portfolioIcon.png" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io) |
