@@ -1,6 +1,6 @@
 <h1 align="center">Hey, welcome! 🌌</h1>
 
-Hello, welcome to my GitHub page. I am an IT and Computer Science student from Brazil, currently am mastering Web technologies skills, and further on, I will start studying in the Artificial Intelligence fields. I've started this learning journey in 2018, with the Java language, and moved to the Web environment. Hopefully, when 2022 is ending, I might be able have mastered Web Development skills, and know a satisfactory amount about Machine Learning.
+Hello, welcome to my GitHub page. I am an IT and Computer Science student from Brazil, currently am mastering Web technologies skills, and further on, I will start studying in the Artificial Intelligence fields. I've started this learning journey in 2018, with the Java language, and moved to the Web environment. Hopefully, when 2022 is ending, I might have mastered Web Development skills, and know a satisfactory amount about Artificial Intelligence.
 
 <p align="center"><img alt="Galaxy Illustration" align="center" src="./galaxy.jpg" width="80%" height="auto"/></p>
 
