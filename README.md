@@ -20,9 +20,10 @@ Also love Astronomy and Physics, sometimes I leave programming aside for a littl
 <img src="https://img.shields.io/badge/MySQL-00AAEE?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-3970E4?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=black"> <img src="https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=red">
 
 ### Find me here...
-[<img alt="Portfolio Icon" align="center" src="./portfolioIcon.png" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io) |
-[<img alt="LinkedIn Icon" align="center" src="./linkedin.png" width="55px" height="55px" title="LinkedIn"/>](https://www.linkedin.com/in/pedroabinotti) |
-[<img alt="GitHub Icon" align="center" src="./github.png" width="55px" height="55px" title="GitHub"/>](https://www.github.com/astroxii) |
-[<img alt="Stack Overflow Icon" align="center" src="./stackoverflow.png" width="55px" height="55px" title="Stack Overflow"/>](https://stackoverflow.com/users/16729323/astroxii)
+[<img alt="Portfolio Icon" align="center" src="./portfolioIcon.png" width="55px" height="55px" title="Portfolio"/>](https://astroxii.github.io) | 
+[<img alt="LinkedIn Icon" align="center" src="./linkedin.png" width="55px" height="55px" title="LinkedIn"/>](https://www.linkedin.com/in/pedroabinotti) | 
+[<img alt="GitHub Icon" align="center" src="./github.png" width="55px" height="55px" title="GitHub"/>](https://www.github.com/astroxii) | 
+[<img alt="Stack Overflow Icon" align="center" src="./stackoverflow.png" width="55px" height="55px" title="Stack Overflow"/>](https://stackoverflow.com/users/16729323/astroxii) | 
+[<img alt="HackerRank Icon" align="center" src="./hackerrank.png" width="55px" height="55px" title="HackerRank"/>](https://www.hackerrank.com/astroxii)
 &nbsp;
 <h4 align="center">Thanks for visiting!</h4>
